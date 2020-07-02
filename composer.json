@@ -1,0 +1,18 @@
+{
+  "name": "adamyu1024/mm-sdk-php",
+  "description": "Yii2 Database settings",
+  "type": "eg",
+  "keywords": [
+    "eg"
+  ],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Adam Yu",
+      "email": "adamyu1024@outlook.com"
+    }
+  ],
+  "require": {
+    "jeferwang/signature": "^1.1"
+  }
+}

@@ -1,0 +1,61 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "37c01400a996e4870ae727058f70be85",
+    "packages": [
+        {
+            "name": "jeferwang/signature",
+            "version": "v1.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jeferwang/Signature.git",
+                "reference": "2140701e90ba52fa653ff2c6ebc50d5935d6c2f9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jeferwang/Signature/zipball/2140701e90ba52fa653ff2c6ebc50d5935d6c2f9",
+                "reference": "2140701e90ba52fa653ff2c6ebc50d5935d6c2f9",
+                "shasum": "",
+                "mirrors": [
+                    {
+                        "url": "https://mirrors.aliyun.com/composer/dists/%package%/%reference%.%type%",
+                        "preferred": true
+                    }
+                ]
+            },
+            "require": {
+                "php": ">=5.6.1"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Signature\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "jeferwang",
+                    "email": "jeferwang@qq.com"
+                }
+            ],
+            "description": "Signature for api access validate",
+            "time": "2019-11-06T08:45:31+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
+}
